@@ -11,7 +11,7 @@ function Users() {
             <div className="col">
               <input
                 type="text"
-                className="form-control"
+                className="form-control bg-light"
                 placeholder="Username"
                 aria-label="Username"
               />
@@ -19,7 +19,7 @@ function Users() {
             <div className="col">
               <input
                 type="text"
-                className="form-control"
+                className="form-control bg-light"
                 placeholder="Password"
                 aria-label="Password"
               />
